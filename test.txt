@@ -1,1 +1,3 @@
-Je crée un fichier texte pour tester la connexion vers mon PC
+﻿Je crée un fichier texte pour tester la connexion vers mon PC
+Je rajoute une ligne pour vérifier la connection de mon pc 
+déja que je suis content d'avoir réussi dans un sens, voyons ce que ça donne dans l'autre sens
